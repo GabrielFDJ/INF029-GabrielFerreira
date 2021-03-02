@@ -1,0 +1,1 @@
+int codigodeacao(int idcod);
