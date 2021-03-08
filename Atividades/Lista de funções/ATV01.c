@@ -13,7 +13,7 @@ float main(){
 	soma = somanum(num1,num2);
 
 	printf("O resultado da soma eh : %.2f",soma);
-	system("PAUSE\n");
+	system("PAUSE");
 	return 0;
 	
 }
