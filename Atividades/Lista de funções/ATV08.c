@@ -40,7 +40,7 @@ void cadastrarCliente(struct cadastro *c){
     
     while (aux){
         
-        printf("Digite sua data de nascimento ( com parenteses ou pontos) e ano completo : ");
+        printf("Digite sua data de nascimento ( com barras ou pontos) e ano completo : ");
         scanf(" %s",(*c).dataNascimento);
         tamanho = strlen((*c).dataNascimento);
         
