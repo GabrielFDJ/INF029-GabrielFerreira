@@ -5,7 +5,7 @@
 #include <locale.h>
 #include <unistd.h>
 #define TAM 5
-#include "relatorio.h"
+#include "relatorio_update.h"
 #define ERRO_VALID_NOME 4
 #define ERRO_VALID_DATA 5
 #define ERRO_VALID_SEXO 6
